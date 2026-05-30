@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Omji Prasad Sah 👋
 
-<!--
-**Omji1513109/Omji1513109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder building at the intersection of AI, IoT, and Global Trade.
 
-Here are some ideas to get you started:
+## 🚀 Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Globexa
+AI-powered platform focused on global trade, logistics optimization, supplier discovery, and cross-border commerce.
+
+### USKII
+Technology brand exploring AI-enabled and IoT-enabled consumer products.
+
+## 🎓 Education
+
+Computer Science & Economics  
+The University of Texas at Arlington
+
+## 🌎 Journey
+
+Nepal 🇳🇵 → Dallas 🇺🇸 → San Francisco 🌉
+
+## 🏆 Highlights
+
+- Not Selected for YC AI Startup School but still flew to sf and attended by explaining it to the gate staffs
+- Recipient of the R.L. Thornton Jr. Scholarship
+- Best Speaker Award – Arbor Toastmasters
+- Program Coordinator – 1 Million Cups Irving
+
+## 🔗 Connect
+
+- Website: https://omji-ai-globe-builder.lovable.app
+- LinkedIn: https://www.linkedin.com/in/omjiprasadsah
+- X: https://x.com/OmjiPrasad
