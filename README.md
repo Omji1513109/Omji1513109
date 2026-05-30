@@ -28,6 +28,6 @@ Nepal 🇳🇵 → Dallas 🇺🇸 → San Francisco 🌉
 
 ## 🔗 Connect
 
-- Website: https://omji-ai-globe-builder.lovable.app
+- Website: https://omjiprasadsah.lovable.app
 - LinkedIn: https://www.linkedin.com/in/omjiprasadsah
 - X: https://x.com/OmjiPrasad
