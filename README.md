@@ -21,7 +21,7 @@ Nepal 🇳🇵 → Dallas 🇺🇸 → San Francisco 🌉
 
 ## 🏆 Highlights
 
-- Not Selected for YC AI Startup School but still flew to sf and attended by explaining it to the gate staffs
+- Not applied for YC AI Startup School 2025 but still flew to sf and attended by explaining it to the gate staffs
 - Recipient of the R.L. Thornton Jr. Scholarship
 - Best Speaker Award – Arbor Toastmasters
 - Program Coordinator – 1 Million Cups Irving
