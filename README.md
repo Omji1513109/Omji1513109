@@ -1,30 +1,55 @@
-# Hi, I'm Omji Prasad Sah 
+# Hi, I'm Omji 
 
-Founder building at the intersection of AI, IoT, and Global Trade.
+Computer Science student at UTA building AI systems, startup tools, and scalable internet products.
 
-## Building
+## Interests
 
-### Globexa
-AI-powered platform focused on global trade, logistics optimization, supplier discovery, and cross-border commerce.
+* Artificial Intelligence
+* Startups & Venture Capital
+* Scalable Business Systems
+* Economics & Technology
+* Automation & Internet Products
 
-### USKII
-Technology brand exploring AI-enabled and IoT-enabled consumer products.
+## Currently Building
+
+* Startup Validator AI
+* AI Founder CRM
+* Cashflow Business Analyzer
+
+
+## Experience
+
+* YC AI Startup School Participant
+* Program Coordinator @ 1 Million Cups Irving
+* Peer Mentor @ Dallas College
+* Founder @ Globexa
+  
+
+## Tech Stack
+
+* JavaScript / TypeScript
+* Next.js
+* React
+* OpenAI API
+* Firebase / Supabase
+* TailwindCSS
+
+
+## Vision
+
+Building technology-driven systems and scalable businesses that combine AI, economics, and real-world execution.
+
 
 ## Education
 
 Computer Science & Economics  
 The University of Texas at Arlington
 
+
 ## Journey
 
 Nepal 🇳🇵 → Dallas 🇺🇸 → San Francisco 🌉
 
-## Highlights
-
-- Attended YC AI Startup School 2025 in San Francisco after independently traveling from Dallas to immerse myself in the startup ecosystem.
-- Recipient of the R.L. Thornton Jr. Scholarship
-- Best Speaker Award – Arbor Toastmasters
-- Program Coordinator – 1 Million Cups Irving
 
 ## Connect
 
