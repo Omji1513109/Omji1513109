@@ -1,8 +1,8 @@
-# Hi, I'm Omji Prasad Sah 👋
+# Hi, I'm Omji Prasad Sah 
 
 Founder building at the intersection of AI, IoT, and Global Trade.
 
-## 🚀 Building
+## Building
 
 ### Globexa
 AI-powered platform focused on global trade, logistics optimization, supplier discovery, and cross-border commerce.
@@ -10,23 +10,23 @@ AI-powered platform focused on global trade, logistics optimization, supplier di
 ### USKII
 Technology brand exploring AI-enabled and IoT-enabled consumer products.
 
-## 🎓 Education
+## Education
 
 Computer Science & Economics  
 The University of Texas at Arlington
 
-## 🌎 Journey
+## Journey
 
 Nepal 🇳🇵 → Dallas 🇺🇸 → San Francisco 🌉
 
-## 🏆 Highlights
+## Highlights
 
 - Attended YC AI Startup School 2025 in San Francisco after independently traveling from Dallas to immerse myself in the startup ecosystem.
 - Recipient of the R.L. Thornton Jr. Scholarship
 - Best Speaker Award – Arbor Toastmasters
 - Program Coordinator – 1 Million Cups Irving
 
-## 🔗 Connect
+## Connect
 
 - Website: https://omjiprasadsah.lovable.app
 - LinkedIn: https://www.linkedin.com/in/omjiprasadsah
